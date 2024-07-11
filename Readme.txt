@@ -1,4 +1,4 @@
-# Scripts activate StarUML-V6
+## Scripts activate StarUML-V6
 ### Launch Command
 You can run `scripts activate StarUML-V6` by running the cmd belown
 
